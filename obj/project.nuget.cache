@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LB25Q45m20S4YYNkwVorW6y9Gnx0wEA/objDiNzSSlo0KHnWesoJddzCuFs4dFpHzeFyjozL7OJFrY65S8Mpjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\LPRCar\\LPRCar\\LPRCar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

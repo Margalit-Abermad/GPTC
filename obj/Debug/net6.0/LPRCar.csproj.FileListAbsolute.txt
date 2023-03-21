@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\LPRCar\LPRCar\bin\Debug\net6.0\LPRCar.exe
+C:\Users\user\Desktop\LPRCar\LPRCar\bin\Debug\net6.0\LPRCar.deps.json
+C:\Users\user\Desktop\LPRCar\LPRCar\bin\Debug\net6.0\LPRCar.runtimeconfig.json
+C:\Users\user\Desktop\LPRCar\LPRCar\bin\Debug\net6.0\LPRCar.dll
+C:\Users\user\Desktop\LPRCar\LPRCar\bin\Debug\net6.0\LPRCar.pdb
+C:\Users\user\Desktop\LPRCar\LPRCar\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\LPRCar\LPRCar\obj\Debug\net6.0\LPRCar.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\LPRCar\LPRCar\obj\Debug\net6.0\LPRCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\LPRCar\LPRCar\obj\Debug\net6.0\LPRCar.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\LPRCar\LPRCar\obj\Debug\net6.0\LPRCar.AssemblyInfo.cs
+C:\Users\user\Desktop\LPRCar\LPRCar\obj\Debug\net6.0\LPRCar.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\LPRCar\LPRCar\obj\Debug\net6.0\LPRCar.csproj.CopyComplete
+C:\Users\user\Desktop\LPRCar\LPRCar\obj\Debug\net6.0\LPRCar.dll
+C:\Users\user\Desktop\LPRCar\LPRCar\obj\Debug\net6.0\refint\LPRCar.dll
+C:\Users\user\Desktop\LPRCar\LPRCar\obj\Debug\net6.0\LPRCar.pdb
+C:\Users\user\Desktop\LPRCar\LPRCar\obj\Debug\net6.0\LPRCar.genruntimeconfig.cache
+C:\Users\user\Desktop\LPRCar\LPRCar\obj\Debug\net6.0\ref\LPRCar.dll
